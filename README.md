@@ -8,8 +8,5 @@ IBM/Coursera - Applied Data Science Capstone
     5 - jupyter-labs-eda-dataviz.ipynb
     6 - lab_jupyter_launch_site_location.ipynb
     7 - SpaceX_Machine Learning Prediction_Part_5.ipynb
-    
+    8 - Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb & spacex_dashboard_code.py
     9 - ms-spacex-booster-prediction-report.pdf
-    
-    7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb
-    
